@@ -1,0 +1,9 @@
+{
+  "port": 8765,
+  "username": null,
+  "memory_mb": 4096,
+  "minecraft_dir": "C:\\Users\\savin\\AppData\\Roaming\\FlameLauncher\\.minecraft",
+  "download_assets": true,
+  "notifications_enabled": true,
+  "auth_mode": "offline"
+}
